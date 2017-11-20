@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Student-Attendance</string>
+
+    <string name="simpleLogin">Login</string>
+    <string name="simplePw">Password</string>
+
+    <string name="homePage">Home Page</string>
+    <string name="welcomeLabel">Students attendance</string>
+
+    <string name="nameLabel">Name:</string>
+    <string name="attLabel">Mark attendance</string>
+    <string name="subjectsListLabel">List of subjects</string>
+    <string name="chosenSubject">Please choose your subject</string>
+
+    <string name="btnSumbit">Submit</string>
+
+    <string name="detailsLabel">Main details:</string>
+
+</resources>
